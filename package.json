@@ -1,0 +1,15 @@
+{
+  "name": "snake",
+  "version": "1.0.0",
+  "description": "Basic game of snake in NodeJS",
+  "main": "index.js",
+  "dependencies": {
+    "keypress": "^0.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nevan Tan <nevan@tanclan.ca>",
+  "license": "ISC"
+}
